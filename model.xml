@@ -1,8 +1,8 @@
 <root org="doublechain"
-    chinese_name="Simple PIM v1.0"
-    english_name="Product Information Management"
+    chinese_name="测试 v1.0"
+    english_name="测试产品"
 >
-    <platform
+<!--     <platform
               
         name="PIM"
         founded="now()"
@@ -10,6 +10,6 @@
     />
     <brand name="Candys|Sees"  platform="platform()"/>
     <product name="popcorn|chocklate" image="snack.jpg" brand="brand()"  platform="platform()"/>
-    <sku name="sku" product="product()" brand="brand()" platform="platform()" create_time="createTime()"/>
+    <sku name="sku" product="product()" brand="brand()" platform="platform()" create_time="createTime()"/> -->
 </root>
  
